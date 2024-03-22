@@ -24,7 +24,7 @@
 
 ### Create a mini network infra using AWS CloudFormation (Can also create manually from the console) ###
 #### My mini network infra reference link ####
-- [mini-network-infra-cloudformation.yaml](https://github.com/yeemon4398/terraform-import/blob/main/mini-network-infra-cloudformation.yaml)
+- [mini-network-infra-cloudformation.yaml](https://github.com/sispaing/terraform-import/blob/main/mini-network-infra-cloudformation.yaml)
 <br>
 
 #### Create AWS CloudFormation stack to create AWS resources ####
